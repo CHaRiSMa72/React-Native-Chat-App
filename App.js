@@ -16,7 +16,7 @@ import "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDfal7yZHqcpVBaYWPwbGLXguxyAYvMXA8",
+  apiKey: "AIzaSyDfal7yZHqcpVBaYWPwbGLXguxyBTvMXA8",
   authDomain: "reactnativechatapp-32f77.firebaseapp.com",
   projectId: "reactnativechatapp-32f77",
   storageBucket: "reactnativechatapp-32f77.appspot.com",
